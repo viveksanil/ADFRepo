@@ -1,0 +1,9 @@
+{
+	"name": "ADFTutorialDataFactoryVivek",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e39796ed-7041-468d-93c1-c0098cd4bf54",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
